@@ -1,27 +1,27 @@
-# package_name
+# image_processing
 
-Description. 
-The package package_name is used to:
-	- 
+Description.
+The package image_processing is used to:
+	-
 	-
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
 
 ```bash
-pip install package_name
+pip install image_processing
 ```
 
 ## Usage
 
 ```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+from image_processing.processing import combination
+combination.find_difference(image1, image2)
 ```
 
 ## Author
-My_name
+Matheus Moreira
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
