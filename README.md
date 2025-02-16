@@ -2,8 +2,8 @@
 
 Description.
 The package image_processing is used to:
-	-
-	-
+	- Process and analyze images
+	- Perform image combination and comparison
 
 ## Installation
 
